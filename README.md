@@ -1,5 +1,7 @@
 # 自用 NeoVim 整合包
 
+> 视频：https://www.bilibili.com/video/BV1FYtee4EaS
+
 本整合包内含大量实用插件，包括智能补全、语法高亮、错误提示、快速跳转、全局搜索、集成终端、文件浏览、Git 支持等。且安装方便，自用同款，纯 Lua 配置，基于 NeoVim 的 IDE 不二之选。
 
 ![图片演示](cover.png)
